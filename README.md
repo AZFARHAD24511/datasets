@@ -47,7 +47,3 @@ This dataset contains quarterly financial statement data for various U.S. compan
   * **Classification** (e.g., predicting profitability)
   * **Clustering** (e.g., grouping companies based on financial health)
   * **Regression** (e.g., predicting revenues from financial metrics)
-
-
-
-اگر بخوای همین متن رو به فارسی هم داشته باشی برای مستندسازی داخلی، فقط بگو.
