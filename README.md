@@ -1,4 +1,20 @@
 
+## 📂 Dataset and Files Overview
+
+This project includes several datasets and files related to financial, economic, and geospatial data. Below is a brief description of each file:
+
+| File Name                                             | Description / Notes                                                                                      |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| `CPC2.csv`                                            | \[Description missing] — Add details about this dataset here.                                            |
+| `CPCv2.csv`                                           | \[Description missing] — Possibly an updated or related version of `CPC2.csv`.                           |
+| `LSTM_daily_df.csv`                                   | Daily financial or economic time series data prepared for LSTM (Long Short-Term Memory) models.          |
+| `USRealst.rar`                                        | Compressed file containing real estate data for the USA.                                                 |
+| `cpi_montly.xlsx`                                     | Monthly Consumer Price Index (CPI) data for Iran. Useful for inflation and economic studies.             |
+| `final_SUT_s2.xlsx`                                   | Supply and Use Table dataset — economic input-output tables useful for economic modeling.                |
+| `georef-united-states-of-america-zc-point@public.csv` | Geospatial reference data for the United States, possibly zip code centroids or points.                  |
+| `wbg_data.csv`                                        | Data from the World Bank Group (WBG) — contains international economic, social, or financial indicators. |
+
+
 # Financial dataset
 ## 📊 Dataset Description
 
